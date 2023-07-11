@@ -1,0 +1,9 @@
+@media screen and (min-width: 1024px) { 
+    .contato__imagem {
+        background: no-repeat center / cover;
+        background-image: url(../../img/contato.png);
+        height: 672px; 
+        margin-top: 1rem;
+        width: 464px;
+    }
+}

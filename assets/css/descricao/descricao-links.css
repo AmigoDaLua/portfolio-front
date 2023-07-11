@@ -1,0 +1,14 @@
+.descricao__links {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+    .descricao__links {
+        justify-content: flex-start;
+    }
+}
+
+
+

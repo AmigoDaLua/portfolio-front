@@ -1,0 +1,9 @@
+.sobre__assinatura {
+    width: 70px;
+}
+
+@media screen and (min-width: 1024px) {
+    .sobre__assinatura {
+        padding-bottom: 3rem;
+    }
+}

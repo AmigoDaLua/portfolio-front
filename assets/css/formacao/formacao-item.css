@@ -1,0 +1,9 @@
+.formacao__item {
+    margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 1024px) {
+    .formacao__item:nth-child(1) {
+        padding-right: 1.75rem;
+    }
+}

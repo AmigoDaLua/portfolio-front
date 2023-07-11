@@ -1,0 +1,23 @@
+.formacao__imagem {
+    background: no-repeat center / cover;
+    background-color: white;
+    height: 120px;
+    margin: 0 auto;
+    width: 300px;
+        
+}
+
+.formacao__imagem--ufrj {
+    background-image: url("../../img/ufrj.svg");
+}
+
+.formacao__imagem--alura {
+    background-image: url("../../img/alura.svg");
+}
+
+@media screen and (min-width:1024px) {
+    .formacao__imagem {
+        width: 24rem;
+        height: 16rem;
+    }
+}
